@@ -2,7 +2,7 @@
 import pygame, sys
 from pygame.locals import *
 import random, time
-
+#aasasasa
 # Initialzing
 pygame.init()
 
